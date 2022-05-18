@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&family=Josefin+Sans:wght@100&family=Lexend+Deca:wght@100&family=Lexend:wght@100&family=Livvic:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.abel {
+    font-family: 'Abel', sans-serif;
+}
+.anton {
+    font-family: 'Anton', sans-serif;
+}
+.josefin {
+    font-family: 'Josefin Sans', sans-serif;
+}
+.lexend {
+    font-family: 'Lexend', sans-serif;
+}
+.deca {
+    font-family: 'Lexend Deca', sans-serif;
+}
+.livvic {
+    font-family: 'Livvic', sans-serif;
+}
+.nunito{
+    font-family: 'Nunito', sans-serif;
+}
+
+
+
+
+
+
+
+
